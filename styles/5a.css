@@ -1,0 +1,20 @@
+.title {
+  font-family: tahoma;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.title-deal {
+  font-family: arial;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.sale {
+  font-family: arial;
+  color: red;
+  font-style: italic;
+  font-size: 18px;
+  margin-top: 0;
+}
